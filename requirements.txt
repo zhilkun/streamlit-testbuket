@@ -1,5 +1,4 @@
-python==3.12.5
 numpy==1.26.4
 pandas==2.2.2
 streamlit
-pip==24.2
+
